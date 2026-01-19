@@ -1,4 +1,4 @@
-package exp3_urk23me6017;
+package EX3;
 
 import java.util.Scanner;
 
@@ -35,3 +35,4 @@ public class ClassObjectDemo {
         s1.displayDetails();
     }
 }
+
